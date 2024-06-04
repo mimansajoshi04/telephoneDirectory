@@ -1,2 +1,21 @@
 # telephoneDirectory
- This is a telephone directory app, where a user can login and save their contacts. They can also uplaod photos for the contact, save name and number. User can perform: create, update and destroy operations on the same. They can also store the details about the contact's dob, occupation,etc.
+ This is a telephone directory app, where a user can log in and save their contacts. They can also upload photos for the contact, and save names and numbers.
+
+**Data structure used:**
+ - Trees
+
+**Programming language:**
+- C language
+
+**Database type:**
+- Stored in a file system.
+- Inputs are comma-separated values.
+- **Works for both .csv and .txt files.**
+
+**How to run the code:**
+- Keep the code file and the data file(.csv or .txt) in the same folder.
+- Compile the code file from a terminal.
+  - If you are using the gcc compiler use: _gcc -o outputfile yourfile.c_ to compile
+  - Now run the file by typing the name of the file in terminal and press _Enter_.
+
+ **Thank You**
