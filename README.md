@@ -1,5 +1,5 @@
-# telephoneDirectory
- This is a telephone directory app, where a user can log in and save their contacts. They can also upload photos for the contact, and save names and numbers.
+# telephoneDirectorySearchEngine
+ This is a telephone directory app, where a user can save names and numbers and search for them.
 
 **Data structure used:**
  - Trees
